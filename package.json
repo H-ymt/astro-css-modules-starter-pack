@@ -8,8 +8,8 @@
     "build": "astro build",
     "preview": "astro preview",
     "astro": "astro",
-    "prettier": "prettier --write 'src/**/*.{ts,astro,scss}'",
-    "eslint": "eslint --fix 'src/**/*.{ts,astro}'"
+    "prettier": "prettier --write 'src/**/*.{ts,js,astro,scss}'",
+    "eslint": "eslint --fix 'src/**/*.{ts,js,astro}'"
   },
   "dependencies": {
     "astro": "^3.2.1",
