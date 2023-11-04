@@ -5,7 +5,7 @@
 - Sass
 - ESLint（JavaScript解析）
 - Prettier（コード整形）
-- Husky（準備中👷）
+- Husky（コミット時にESLintとPrettierを実行する）
 
 ## Requirements
 
